@@ -1,0 +1,10 @@
+
+
+1.Qué ocurre cuando ejecutas node server.js.
+me aparece SERVIDOR ACTIVO Y FUNCIONANDO
+
+2.Qué mensaje aparece en la terminal.
+me aparece SERVIDOR EJECUTANDOSE EN PUERTO 3000
+
+3.Qué sucede cuando visitas la ruta /estado.
+me aparece SERVIDOR ACTIVO Y FUNCIONANDO

@@ -1,0 +1,7 @@
+Es fundamental que las plataformas comunitarias funcionen con estabilidad y seguridad en un servidor para garantizar la confianza de los usuarios,
+proteger sus datos y asegurar la continuidad del servicio. Cuando un servidor es estable, se evitan interrupciones inesperadas que afecten 
+la comunicación y el acceso a herramientas clave en el día a día. Por su parte, la seguridad es vital para resguardar la información personal de los miembros 
+frente a posibles ciberataques o filtraciones maliciosas. Una plataforma vulnerable no solo expone la privacidad individual, 
+sino que también daña la reputación del proyecto y puede fragmentar la cohesión del grupo. Asimismo, contar con una infraestructura robusta permite que 
+la comunidad crezca de forma escalable sin comprometer el rendimiento general. En conclusión, mantener un servidor óptimo y protegido es el pilar 
+indispensable para consolidar un entorno digital seguro, colaborativo y sostenible a largo plazo.
